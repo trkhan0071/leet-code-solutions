@@ -1,2 +1,2 @@
 # leet-code-solutions
-I will upload the leetcode solution I solve by myself. 
+I will upload the leetcode solutions I solve by myself. 
